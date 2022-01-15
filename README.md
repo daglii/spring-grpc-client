@@ -1,5 +1,5 @@
 # Spring gRPC Client
-GRPC communication between microservices.
+Insecure gRPC communication between microservices.
 
 ## Overview
 
